@@ -1,0 +1,78 @@
+﻿生成启动时间为 2021/1/23 16:45:33。
+     1>项目“D:\vs2013 program\队列\跳表\跳表.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt skip.c "跳表.c"
+         跳表.c
+     1>d:\vs2013 program\队列\跳表\skip.h(16): error C2061: 语法错误: 标识符“Node”
+     1>d:\vs2013 program\队列\跳表\skip.h(18): error C2059: 语法错误:“}”
+     1>d:\vs2013 program\队列\跳表\skip.h(26): error C2016: C 要求一个结构或联合至少有一个成员
+     1>d:\vs2013 program\队列\跳表\skip.h(26): error C2061: 语法错误: 标识符“SkipNode”
+     1>d:\vs2013 program\队列\跳表\skip.h(29): error C2059: 语法错误:“}”
+     1>d:\vs2013 program\队列\跳表\skip.h(32): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(34): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(36): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(36): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(36): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2371: “Data”: 重定义；不同的基类型
+                 d:\vs2013 program\队列\跳表\skip.h(12) : 参见“Data”的声明
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\跳表.c(5): error C2065: “Skiplist”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\跳表.c(5): error C2297: “*”: 非法，右操作数包含“int *”类型
+         skip.c
+     1>d:\vs2013 program\队列\跳表\skip.h(16): error C2061: 语法错误: 标识符“Node”
+     1>d:\vs2013 program\队列\跳表\skip.h(18): error C2059: 语法错误:“}”
+     1>d:\vs2013 program\队列\跳表\skip.h(26): error C2016: C 要求一个结构或联合至少有一个成员
+     1>d:\vs2013 program\队列\跳表\skip.h(26): error C2061: 语法错误: 标识符“SkipNode”
+     1>d:\vs2013 program\队列\跳表\skip.h(29): error C2059: 语法错误:“}”
+     1>d:\vs2013 program\队列\跳表\skip.h(32): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(34): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(36): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(36): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(36): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2371: “Data”: 重定义；不同的基类型
+                 d:\vs2013 program\队列\跳表\skip.h(12) : 参见“Data”的声明
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.h(38): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.c(11): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(13): error C2065: “SkipNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(13): error C2065: “newNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(13): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.c(14): error C2065: “newNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(14): warning C4047: “!=”:“int”与“void *”的间接级别不同
+     1>d:\vs2013 program\队列\跳表\skip.c(15): error C2065: “newNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(15): error C2223: “->data”的左侧必须指向结构/联合
+     1>d:\vs2013 program\队列\跳表\skip.c(16): error C2065: “newNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(16): error C2223: “->first”的左侧必须指向结构/联合
+     1>d:\vs2013 program\队列\跳表\skip.c(17): error C2065: “newNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(17): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\vs2013 program\队列\跳表\skip.c(18): error C2065: “newNode”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(18): warning C4047: “return”:“int *”与“int”的间接级别不同
+     1>d:\vs2013 program\队列\跳表\skip.c(20): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(22): error C2065: “Skiplist”: 未声明的标识符
+     1>d:\vs2013 program\队列\跳表\skip.c(22): error C2297: “*”: 非法，右操作数包含“int *”类型
+     1>d:\vs2013 program\队列\跳表\skip.c(22): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.c(24): error C2223: “->headNode”的左侧必须指向结构/联合
+     1>d:\vs2013 program\队列\跳表\skip.c(25): error C2223: “->divs”的左侧必须指向结构/联合
+     1>d:\vs2013 program\队列\跳表\skip.c(26): error C2223: “->sizeSkipList”的左侧必须指向结构/联合
+     1>d:\vs2013 program\队列\跳表\skip.c(29): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(29): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(29): error C2371: “Data”: 重定义；不同的基类型
+                 d:\vs2013 program\队列\跳表\skip.h(12) : 参见“Data”的声明
+     1>d:\vs2013 program\队列\跳表\skip.c(29): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(29): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.c(30): error C2054: 在“data”之后应输入“(”
+     1>d:\vs2013 program\队列\跳表\skip.c(117): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(117): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\vs2013 program\队列\跳表\skip.c(117): error C2059: 语法错误:“)”
+     1>d:\vs2013 program\队列\跳表\skip.c(118): error C2054: 在“list”之后应输入“(”
+         正在生成代码...
+     1>已完成生成项目“D:\vs2013 program\队列\跳表\跳表.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.82
